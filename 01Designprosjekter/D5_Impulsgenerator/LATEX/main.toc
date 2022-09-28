@@ -1,0 +1,9 @@
+\babel@toc {norsk}{}\relax 
+\contentsline {section}{\numberline {1}Problembeskrivelse}{2}{section.1}%
+\contentsline {section}{\numberline {2}Undersøkelser}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Realisering av krets}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Videre undersøkelse av impulssignalet}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Videre undersøkelse av spekteret til impulssignalet}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Test av Impulsgeneratoren på et RLC-båndpassfilter}{7}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Konklusjon}{9}{section.3}%
+\contentsline {section}{\numberline {4}Referaser}{10}{section.4}%
