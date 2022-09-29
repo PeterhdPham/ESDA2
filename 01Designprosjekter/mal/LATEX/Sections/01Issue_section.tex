@@ -1,0 +1,9 @@
+\section{Problembeskrivelse}
+\label{sec:issue}
+Signalbehandling i elektroniske system foregår som regel digitalt. Inngangssignalene til systemet er oftest analoge, og en digitalisering av disse før signalbehandlingen er derfor nødvendig. For å unngå alvorlige aliasing-feil, er det nødvendig å begrense båndbredden til signalene som skal digitaliseres. Dersom punktprøvingsfrekvensen er $f_s$, må, ifølge punktprøvingsteoremet, signalet være båndbegrenset til $B = \frac {f_s} {2}$. 
+I praksis er en fullstendig båndbegrensing (der alle frekenskomponenter over $\frac {f_s} {2}$ er satt til null) ikke mulig. Det er heller ikke nødvendig. Det er tilstrekkelig at frekvenskomponenter over $\frac {f_s} {2}$ blir dempet med en viss faktor avhengig av applikasjonen. Slik demping kan oppnåes ved å sette et anti-alias-filter umiddelbart foran A/D-omformeren som vist i figur 1.
+Videre er det ønskelig at anti-alias-filteret påvirker frekvenskomponentene under $\frac {f_s} {2}$ minstmulig. Det kan sikres ved å kreve at knekkfrekvensen til filteret ligger over en viss verdi.
+
+\begin{figure}
+   \includegraphics[]{} 
+\end{figure}
