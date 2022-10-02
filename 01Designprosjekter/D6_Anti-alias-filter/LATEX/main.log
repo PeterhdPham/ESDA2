@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  29 SEP 2022 08:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  2 OCT 2022 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -763,7 +763,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip75
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 35.
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write5
  Excluding comment 'comment') (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
@@ -996,7 +996,7 @@ LaTeX Info: Redefining \ohm on input line 3.
 Package gensymb Info: Using \textohm for \ohm on input line 3.
 Package gensymb Info: Using \textmu for \micro on input line 3.
  (Sections/00Heading.tex
-<Images/elsys_pos_staaende_ntnu.png, id=30, 119.9682pt x 301.6068pt>
+<Images/elsys_pos_staaende_ntnu.png, id=42, 119.9682pt x 301.6068pt>
 File: Images/elsys_pos_staaende_ntnu.png Graphic file (type png)
 <use Images/elsys_pos_staaende_ntnu.png>
 Package pdftex.def Info: Images/elsys_pos_staaende_ntnu.png  used on input line 3.
@@ -1041,40 +1041,85 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
  [1
 
 {C:/Users/peter/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/elsys_pos_staaende_ntnu.png>] (Sections/01Issue_section.tex
-<./Images/01Issue/01Anti-alias-filter.png, id=50, 443.6575pt x 121.45375pt>
+<./Images/01Issue/01Anti-alias-filter.png, id=65, 443.6575pt x 121.45375pt>
 File: ./Images/01Issue/01Anti-alias-filter.png Graphic file (type png)
 <use ./Images/01Issue/01Anti-alias-filter.png>
 Package pdftex.def Info: ./Images/01Issue/01Anti-alias-filter.png  used on input line 9.
 (pdftex.def)             Requested size: 310.55812pt x 85.01703pt.
 ) [2 <./Images/01Issue/01Anti-alias-filter.png>] (Sections/02Concept_section.tex
-<./Images/02Concept/01spesifikasjon.png, id=64, 327.2225pt x 211.79124pt>
+<./Images/02Concept/01spesifikasjon.png, id=80, 327.2225pt x 211.79124pt>
 File: ./Images/02Concept/01spesifikasjon.png Graphic file (type png)
 <use ./Images/02Concept/01spesifikasjon.png>
 Package pdftex.def Info: ./Images/02Concept/01spesifikasjon.png  used on input line 19.
 (pdftex.def)             Requested size: 229.05418pt x 148.25285pt.
-) [3 <./Images/02Concept/01spesifikasjon.png>] (Sections/03Research_section.tex) [4] (Sections/04Conclusion.tex) [5]
+<./Images/02Concept/02filter.png, id=84, 462.528pt x 171.2799pt>
+File: ./Images/02Concept/02filter.png Graphic file (type png)
+<use ./Images/02Concept/02filter.png>
+Package pdftex.def Info: ./Images/02Concept/02filter.png  used on input line 31.
+(pdftex.def)             Requested size: 323.76738pt x 119.89511pt.
+<./Images/02Concept/03SallenKey.png, id=86, 527.9725pt x 273.02pt>
+File: ./Images/02Concept/03SallenKey.png Graphic file (type png)
+<use ./Images/02Concept/03SallenKey.png>
+Package pdftex.def Info: ./Images/02Concept/03SallenKey.png  used on input line 40.
+(pdftex.def)             Requested size: 369.57823pt x 191.11269pt.
+ [3 <./Images/02Concept/01spesifikasjon.png>] [4 <./Images/02Concept/02filter.png> <./Images/02Concept/03SallenKey.png>]
+<./Images/02Concept/04orders.png, id=117, 1284.8pt x 907.39pt>
+File: ./Images/02Concept/04orders.png Graphic file (type png)
+<use ./Images/02Concept/04orders.png>
+Package pdftex.def Info: ./Images/02Concept/04orders.png  used on input line 74.
+(pdftex.def)             Requested size: 256.95544pt x 181.47478pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 75.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 75.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 75.
 
-LaTeX Warning: Empty bibliography on input line 34.
 
-[6] (main.aux)
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 84.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 117--22
+
+ []
+
+[5 <./Images/02Concept/04orders.png>] [6] (Sections/03Research_section.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 26.
+<./Images/03Research/01realisertkrets.png, id=143, 929.4725pt x 242.9075pt>
+File: ./Images/03Research/01realisertkrets.png Graphic file (type png)
+<use ./Images/03Research/01realisertkrets.png>
+Package pdftex.def Info: ./Images/03Research/01realisertkrets.png  used on input line 52.
+(pdftex.def)             Requested size: 418.25877pt x 109.30736pt.
+) [7] (Sections/04Conclusion.tex) [8 <./Images/03Research/01realisertkrets.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 34.
+ (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (4.18967pt too wide) in paragraph at lines 34--34
+\T1/lmr/m/sc/10.95 url\T1/lmr/m/n/10.95 : [][]$\T1/lmss/m/n/10.95 https : / / ntnu . blackboard . com / ultra / courses / _38144 _ 1 / cl / outline$[][] \T1/lmr/m/n/10.95 (sjek-ket 01.10.2022). 
+ []
+
+[9] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6D6282A181F5529318CB5DEB2F8FF5E8;696.
+(rerunfilecheck)             Checksum: 94ECF013D94925F3BEBB92BA8B2699B1;1119.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47510 strings out of 477843
- 1077230 string characters out of 2823600
- 1986817 words of memory out of 3000000
- 65770 multiletter control sequences out of 15000+600000
- 532010 words of font info for 77 fonts, out of 8000000 for 9000
+ 47898 strings out of 477843
+ 1085159 string characters out of 2823600
+ 1995900 words of memory out of 3000000
+ 66108 multiletter control sequences out of 15000+600000
+ 573756 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,10n,132p,1226b,1672s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (6 pages, 217558 bytes).
+ 130i,11n,132p,1226b,1672s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (9 pages, 480249 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 269 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
