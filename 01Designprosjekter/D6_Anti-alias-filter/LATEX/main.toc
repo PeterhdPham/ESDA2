@@ -5,6 +5,6 @@
 \contentsline {subsection}{\numberline {2.2}Type filter}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Nødvendig orden}{4}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Systemfunksjonen}{5}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Realisering og test}{7}{section.3}%
+\contentsline {section}{\numberline {3}Realisering og test}{6}{section.3}%
 \contentsline {section}{\numberline {4}Konklusjon}{8}{section.4}%
 \contentsline {section}{\numberline {5}Referanser}{9}{section.5}%

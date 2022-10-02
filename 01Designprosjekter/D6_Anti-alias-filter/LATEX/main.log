@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  2 OCT 2022 22:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  3 OCT 2022 00:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1074,25 +1074,34 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 75.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 75.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 84.
-
 )
 Underfull \hbox (badness 10000) in paragraph at lines 117--22
 
  []
 
-[5 <./Images/02Concept/04orders.png>] [6] (Sections/03Research_section.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 26.
-<./Images/03Research/01realisertkrets.png, id=143, 929.4725pt x 242.9075pt>
+[5 <./Images/02Concept/04orders.png>] (Sections/03Research_section.tex
+<./Images/03Research/01realisertkrets.png, id=139, 929.4725pt x 242.9075pt>
 File: ./Images/03Research/01realisertkrets.png Graphic file (type png)
 <use ./Images/03Research/01realisertkrets.png>
 Package pdftex.def Info: ./Images/03Research/01realisertkrets.png  used on input line 52.
 (pdftex.def)             Requested size: 418.25877pt x 109.30736pt.
-) [7] (Sections/04Conclusion.tex) [8 <./Images/03Research/01realisertkrets.png>]
+<./Images/03Research/02frekvensrespons.png, id=141, 462.528pt x 346.896pt>
+File: ./Images/03Research/02frekvensrespons.png Graphic file (type png)
+<use ./Images/03Research/02frekvensrespons.png>
+Package pdftex.def Info: ./Images/03Research/02frekvensrespons.png  used on input line 61.
+(pdftex.def)             Requested size: 208.13567pt x 156.10175pt.
+ [6 <./Images/03Research/01realisertkrets.png>]
+<./Images/03Research/02frekvensrespons2.png, id=154, 462.528pt x 346.896pt>
+File: ./Images/03Research/02frekvensrespons2.png Graphic file (type png)
+<use ./Images/03Research/02frekvensrespons2.png>
+Package pdftex.def Info: ./Images/03Research/02frekvensrespons2.png  used on input line 70.
+(pdftex.def)             Requested size: 208.13567pt x 156.10175pt.
+<./Images/03Research/03.jpg, id=156, 1198.4775pt x 1826.825pt>
+File: ./Images/03Research/03.jpg Graphic file (type jpg)
+<use ./Images/03Research/03.jpg>
+Package pdftex.def Info: ./Images/03Research/03.jpg  used on input line 81.
+(pdftex.def)             Requested size: 119.85477pt x 182.69319pt.
+) [7 <./Images/03Research/02frekvensrespons.png> <./Images/03Research/02frekvensrespons2.png>] (Sections/04Conclusion.tex) [8 <./Images/03Research/03.jpg>]
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 34.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1109,17 +1118,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47898 strings out of 477843
- 1085159 string characters out of 2823600
- 1995900 words of memory out of 3000000
- 66108 multiletter control sequences out of 15000+600000
- 573756 words of font info for 116 fonts, out of 8000000 for 9000
+ 47923 strings out of 477843
+ 1086117 string characters out of 2823600
+ 1997132 words of memory out of 3000000
+ 66125 multiletter control sequences out of 15000+600000
+ 565759 words of font info for 107 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,11n,132p,1226b,1672s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (9 pages, 480249 bytes).
+{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (9 pages, 763934 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 120 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
+ 135 words of extra memory for PDF output out of 10000 (max. 10000000)
 
