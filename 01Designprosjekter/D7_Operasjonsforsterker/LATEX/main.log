@@ -1,20 +1,12 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.8)  8 OCT 2022 00:35
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.11)  11 OCT 2022 11:48
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.9)  3 NOV 2022 20:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/01School/ESDA2/01Designprosjekter/D6_Anti-alias-filter/LATEX/main.tex
-(d:/01School/ESDA2/01Designprosjekter/D6_Anti-alias-filter/LATEX/main.tex
+**d:/01School/ESDA2/01Designprosjekter/D7_Operasjonsforsterker/LATEX/main.tex
+(d:/01School/ESDA2/01Designprosjekter/D7_Operasjonsforsterker/LATEX/main.tex
 LaTeX2e <2022-06-01> patch level 5
-<<<<<<< HEAD
-L3 programming layer <2022-07-04> (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-=======
 L3 programming layer <2022-09-28> (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -30,11 +22,7 @@ File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (packages.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
-) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/a4wide\a4wide.sty
+) (packages.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/a4wide\a4wide.sty
 Package: a4wide 1994/08/30
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/ntgclass\a4.sty
 Package: a4 2020/02/18 v1.2g A4 based page layout
@@ -78,11 +66,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-<<<<<<< HEAD
-Package: babel 2022/06/26 3.77 The Babel package
-=======
 Package: babel 2022/10/04 3.81 The Babel package
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
 \babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language79
@@ -107,7 +91,7 @@ Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
+\KV@toks@=\toks16
 )
 \caption@tempdima=\dimen140
 \captionmargin=\dimen141
@@ -128,7 +112,7 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen148
 \ar@mcellbox=\box51
 \extrarowheight=\dimen149
-\NC@list=\toks19
+\NC@list=\toks17
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box52
@@ -139,7 +123,7 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \TX@target=\dimen153
 \TX@delta=\dimen154
 \TX@cols=\count197
-\TX@ftn=\toks20
+\TX@ftn=\toks18
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip51
@@ -149,14 +133,14 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count199
-\float@exts=\toks21
+\float@exts=\toks19
 \float@box=\box53
-\@float@everytoks=\toks22
+\@float@everytoks=\toks20
 \@floatcapt=\box54
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.sty
 Package: circuitikz 2022/09/09{} The CircuiTikz circuit drawing package version 1.5.4
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks23
+\pgfutil@everybye=\toks21
 \pgfutil@tempdima=\dimen156
 \pgfutil@tempdimb=\dimen157
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
@@ -185,10 +169,10 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks24
-\pgfkeys@temptoks=\toks25
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks26
+\pgfkeys@tmptoks=\toks24
 ))
 \pgf@x=\dimen162
 \pgf@y=\dimen163
@@ -206,9 +190,9 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \c@pgf@countb=\count267
 \c@pgf@countc=\count268
 \c@pgf@countd=\count269
-\t@pgf@toka=\toks27
-\t@pgf@tokb=\toks28
-\t@pgf@tokc=\toks29
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
 \pgf@sys@id@count=\count270
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
@@ -246,9 +230,9 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmath@dimen=\dimen172
 \pgfmath@count=\count273
 \pgfmath@box=\box56
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count274
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
@@ -332,8 +316,8 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
 \pgffor@iter=\dimen199
 \pgffor@skip=\dimen256
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
@@ -415,7 +399,7 @@ File: pgflibrarycurvilinear.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen289
 \c@nlinenum=\count291
-\TeXr@lab=\toks35
+\TeXr@lab=\toks33
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
@@ -438,9 +422,6 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-<<<<<<< HEAD
-)) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
-=======
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count293
@@ -682,7 +663,7 @@ Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 \csq@qlevel=\count423
 \csq@maxlvl=\count424
 \csq@tshold=\count425
-\csq@ltx@everypar=\toks36
+\csq@ltx@everypar=\toks34
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
@@ -784,7 +765,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 34.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write5
  Excluding comment 'comment') (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
-Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+Package: pdfpages 2022/10/09 v0.5w Insert pages of external PDF documents (AM)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count437
@@ -806,22 +787,22 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \AM@pageheight=\dimen299
 \AM@fboxrule=\dimen300
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
-File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
+File: pppdftex.def 2022/10/09 v0.5w Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count440
 \AM@pagebox=\box68
-\AM@global@opts=\toks37
+\AM@global@opts=\toks35
 \AM@pagecnt=\count441
-\AM@toc@title=\toks38
+\AM@toc@title=\toks36
 \c@AM@survey=\count442
 \AM@templatesizebox=\box69
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks39
-\SOUL@lasttoken=\toks40
-\SOUL@cmds=\toks41
-\SOUL@buffer=\toks42
-\SOUL@token=\toks43
+\SOUL@word=\toks37
+\SOUL@lasttoken=\toks38
+\SOUL@cmds=\toks39
+\SOUL@buffer=\toks40
+\SOUL@token=\toks41
 \SOUL@spaceskip=\skip79
 \SOUL@ttwidth=\dimen301
 \SOUL@uldp=\dimen302
@@ -846,7 +827,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks44
+\@emptytoks=\toks42
 \ex@=\dimen304
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -885,21 +866,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip21
 \c@parentequation=\count452
 \dspbrk@lvl=\count453
-\tag@help=\toks45
+\tag@help=\toks43
 \row@=\count454
 \column@=\count455
 \maxfields@=\count456
-\andhelp@=\toks46
+\andhelp@=\toks44
 \eqnshift@=\dimen307
 \alignsep@=\dimen308
 \tagshift@=\dimen309
 \tagwidth@=\dimen310
 \totwidth@=\dimen311
 \lineht@=\dimen312
-\@envbody=\toks47
+\@envbody=\toks45
 \multlinegap=\skip81
 \multlinetaggap=\skip82
-\mathdisplay@stack=\toks48
+\mathdisplay@stack=\toks46
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
@@ -913,240 +894,39 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks49
-\thm@bodyfont=\toks50
-\thm@headfont=\toks51
-\thm@notefont=\toks52
-\thm@headpunct=\toks53
+\thm@style=\toks47
+\thm@bodyfont=\toks48
+\thm@headfont=\toks49
+\thm@notefont=\toks50
+\thm@headpunct=\toks51
 \thm@preskip=\skip83
 \thm@postskip=\skip84
 \thm@headsep=\skip85
-\dth@everypar=\toks54
+\dth@everypar=\toks52
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
-Package: gensymb 2003/07/02 v1.0 (WaS)
-))
-Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
-Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'norsk'.
- (main.aux)
-\openout1 = `main.aux'.
+)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: float package is loaded.
-Package caption Info: hyperref package is loaded.
-Package caption Info: End \AtBeginDocument code.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count457
-\scratchdimen=\dimen313
-\scratchbox=\box72
-\nofMPsegments=\count458
-\nofMParguments=\count459
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count460
-\MPscratchDim=\dimen314
-\MPnumerator=\count461
-\makeMPintoPDFobject=\count462
-\everyMPtoPDFconversion=\toks56
-) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-Package biblatex Info: Trying to load language 'norsk'...
-Package biblatex Info: ... file 'norsk.lbx' found.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\norsk.lbx
-File: norsk.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `main.bcf'.
+! LaTeX Error: File `gensymb.sty' not found.
 
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
-Package biblatex Info: Reference section=0 on input line 3.
-Package biblatex Info: Reference segment=0 on input line 3.
-Package hyperref Info: Link coloring ON on input line 3.
- (main.out) (main.out)
-\@outlinefile=\write6
-\openout6 = `main.out'.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-\symgns@font=\mathgroup9
-LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 3.
-Package gensymb Info: Math companion symbols declared on input line 3.
-LaTeX Info: Redefining \degree on input line 3.
-LaTeX Info: Redefining \celsius on input line 3.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 3.
-LaTeX Info: Redefining \ohm on input line 3.
-Package gensymb Info: Using \textohm for \ohm on input line 3.
-Package gensymb Info: Using \textmu for \micro on input line 3.
- (Sections/00Heading.tex
-<Images/elsys_pos_staaende_ntnu.png, id=42, 119.9682pt x 301.6068pt>
-File: Images/elsys_pos_staaende_ntnu.png Graphic file (type png)
-<use Images/elsys_pos_staaende_ntnu.png>
-Package pdftex.def Info: Images/elsys_pos_staaende_ntnu.png  used on input line 3.
-(pdftex.def)             Requested size: 56.9055pt x 143.06682pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (main.toc)
-\tf@toc=\write7
-\openout7 = `main.toc'.
+Enter file name: 
+packages.sty:53: Emergency stop.
+<read *> 
+         
+l.53 ^^M
+        
+*** (cannot \read from terminal in nonstop modes)
 
- [1
-
-{C:/Users/peter/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/elsys_pos_staaende_ntnu.png>] (Sections/01Issue_section.tex
-<./Images/01Issue/01Anti-alias-filter.png, id=65, 443.6575pt x 121.45375pt>
-File: ./Images/01Issue/01Anti-alias-filter.png Graphic file (type png)
-<use ./Images/01Issue/01Anti-alias-filter.png>
-Package pdftex.def Info: ./Images/01Issue/01Anti-alias-filter.png  used on input line 9.
-(pdftex.def)             Requested size: 310.55812pt x 85.01703pt.
-) [2 <./Images/01Issue/01Anti-alias-filter.png>] (Sections/02Concept_section.tex
-<./Images/02Concept/01spesifikasjon.png, id=80, 327.2225pt x 211.79124pt>
-File: ./Images/02Concept/01spesifikasjon.png Graphic file (type png)
-<use ./Images/02Concept/01spesifikasjon.png>
-Package pdftex.def Info: ./Images/02Concept/01spesifikasjon.png  used on input line 19.
-(pdftex.def)             Requested size: 229.05418pt x 148.25285pt.
-<./Images/02Concept/02filter.png, id=84, 462.528pt x 171.2799pt>
-File: ./Images/02Concept/02filter.png Graphic file (type png)
-<use ./Images/02Concept/02filter.png>
-Package pdftex.def Info: ./Images/02Concept/02filter.png  used on input line 31.
-(pdftex.def)             Requested size: 323.76738pt x 119.89511pt.
-<./Images/02Concept/03SallenKey.png, id=86, 527.9725pt x 273.02pt>
-File: ./Images/02Concept/03SallenKey.png Graphic file (type png)
-<use ./Images/02Concept/03SallenKey.png>
-Package pdftex.def Info: ./Images/02Concept/03SallenKey.png  used on input line 40.
-(pdftex.def)             Requested size: 369.57823pt x 191.11269pt.
- [3 <./Images/02Concept/01spesifikasjon.png>] [4 <./Images/02Concept/02filter.png> <./Images/02Concept/03SallenKey.png>]
-<./Images/02Concept/04orders.png, id=117, 1284.8pt x 907.39pt>
-File: ./Images/02Concept/04orders.png Graphic file (type png)
-<use ./Images/02Concept/04orders.png>
-Package pdftex.def Info: ./Images/02Concept/04orders.png  used on input line 74.
-(pdftex.def)             Requested size: 256.95544pt x 181.47478pt.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 75.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 75.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 75.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 117--22
-
- []
-
-[5 <./Images/02Concept/04orders.png>] (Sections/03Research_section.tex
-<./Images/03Research/01realisertkrets.png, id=139, 929.4725pt x 242.9075pt>
-File: ./Images/03Research/01realisertkrets.png Graphic file (type png)
-<use ./Images/03Research/01realisertkrets.png>
-Package pdftex.def Info: ./Images/03Research/01realisertkrets.png  used on input line 52.
-(pdftex.def)             Requested size: 418.25877pt x 109.30736pt.
-<./Images/03Research/02frekvensrespons.png, id=141, 462.528pt x 346.896pt>
-File: ./Images/03Research/02frekvensrespons.png Graphic file (type png)
-<use ./Images/03Research/02frekvensrespons.png>
-Package pdftex.def Info: ./Images/03Research/02frekvensrespons.png  used on input line 61.
-(pdftex.def)             Requested size: 208.13567pt x 156.10175pt.
- [6 <./Images/03Research/01realisertkrets.png>]
-<./Images/03Research/02frekvensrespons2.png, id=154, 462.528pt x 346.896pt>
-File: ./Images/03Research/02frekvensrespons2.png Graphic file (type png)
-<use ./Images/03Research/02frekvensrespons2.png>
-Package pdftex.def Info: ./Images/03Research/02frekvensrespons2.png  used on input line 70.
-(pdftex.def)             Requested size: 208.13567pt x 156.10175pt.
-<./Images/03Research/03.jpg, id=156, 1198.4775pt x 1826.825pt>
-File: ./Images/03Research/03.jpg Graphic file (type jpg)
-<use ./Images/03Research/03.jpg>
-Package pdftex.def Info: ./Images/03Research/03.jpg  used on input line 81.
-(pdftex.def)             Requested size: 119.85477pt x 182.69319pt.
-) [7 <./Images/03Research/02frekvensrespons.png> <./Images/03Research/02frekvensrespons2.png>] (Sections/04Conclusion.tex) [8 <./Images/03Research/03.jpg>]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 34.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
-File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (4.18967pt too wide) in paragraph at lines 34--34
-\T1/lmr/m/sc/10.95 url\T1/lmr/m/n/10.95 : [][]$\T1/lmss/m/n/10.95 https : / / ntnu . blackboard . com / ultra / courses / _38144 _ 1 / cl / outline$[][] \T1/lmr/m/n/10.95 (sjek-ket 01.10.2022). 
- []
-
-[9] (main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 94ECF013D94925F3BEBB92BA8B2699B1;1119.
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
+ 
 Here is how much of TeX's memory you used:
- 48207 strings out of 475385
- 1094226 string characters out of 2776906
- 2053300 words of memory out of 3000000
- 68865 multiletter control sequences out of 15000+600000
- 565759 words of font info for 107 fonts, out of 8000000 for 9000
+ 46009 strings out of 475385
+ 1050823 string characters out of 2776907
+ 1762084 words of memory out of 3000000
+ 66878 multiletter control sequences out of 15000+600000
+ 472862 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,11n,132p,1213b,1672s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (9 pages, 763934 bytes).
-PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
- 135 words of extra memory for PDF output out of 10000 (max. 10000000)
-
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
+ 130i,0n,132p,512b,196s stack positions out of 10000i,1000n,20000p,200000b,80000s
+packages.sty:53:  ==> Fatal error occurred, no output PDF file produced!
