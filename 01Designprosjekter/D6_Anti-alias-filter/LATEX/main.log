@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.8)  8 OCT 2022 00:35
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.11)  11 OCT 2022 11:48
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.3)  3 NOV 2022 21:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -10,11 +6,7 @@ entering extended mode
 **d:/01School/ESDA2/01Designprosjekter/D6_Anti-alias-filter/LATEX/main.tex
 (d:/01School/ESDA2/01Designprosjekter/D6_Anti-alias-filter/LATEX/main.tex
 LaTeX2e <2022-06-01> patch level 5
-<<<<<<< HEAD
-L3 programming layer <2022-07-04> (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-=======
-L3 programming layer <2022-09-28> (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
+L3 programming layer <2022-10-26> (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -78,11 +70,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-<<<<<<< HEAD
-Package: babel 2022/06/26 3.77 The Babel package
-=======
-Package: babel 2022/10/04 3.81 The Babel package
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
+Package: babel 2022/10/23 3.82 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language79
@@ -438,9 +426,6 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-<<<<<<< HEAD
-)) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
-=======
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count293
@@ -658,14 +643,14 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-09-28 L3 programming layer (loader) 
+Package: expl3 2022-10-26 L3 programming layer (loader) 
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count419
 \l__pdf_internal_box=\box67
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2022-09-28 L3 programming layer (loader) 
+(biblatex)             2022-10-26 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
@@ -784,7 +769,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 34.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write5
  Excluding comment 'comment') (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
-Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+Package: pdfpages 2022/10/09 v0.5w Insert pages of external PDF documents (AM)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count437
@@ -806,7 +791,7 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \AM@pageheight=\dimen299
 \AM@fboxrule=\dimen300
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
-File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
+File: pppdftex.def 2022/10/09 v0.5w Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count440
 \AM@pagebox=\box68
@@ -924,8 +909,8 @@ Package: amsthm 2020/05/29 v2.20.6
 \dth@everypar=\toks54
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
-Package: gensymb 2003/07/02 v1.0 (WaS)
+) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -986,167 +971,36 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
 Package biblatex Info: Reference section=0 on input line 3.
 Package biblatex Info: Reference segment=0 on input line 3.
 Package hyperref Info: Link coloring ON on input line 3.
- (main.out) (main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
-Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-\symgns@font=\mathgroup9
-LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 3.
-Package gensymb Info: Math companion symbols declared on input line 3.
-LaTeX Info: Redefining \degree on input line 3.
-LaTeX Info: Redefining \celsius on input line 3.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 3.
-LaTeX Info: Redefining \ohm on input line 3.
-Package gensymb Info: Using \textohm for \ohm on input line 3.
-Package gensymb Info: Using \textmu for \micro on input line 3.
- (Sections/00Heading.tex
-<Images/elsys_pos_staaende_ntnu.png, id=42, 119.9682pt x 301.6068pt>
-File: Images/elsys_pos_staaende_ntnu.png Graphic file (type png)
-<use Images/elsys_pos_staaende_ntnu.png>
-Package pdftex.def Info: Images/elsys_pos_staaende_ntnu.png  used on input line 3.
-(pdftex.def)             Requested size: 56.9055pt x 143.06682pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (main.toc)
-\tf@toc=\write7
-\openout7 = `main.toc'.
 
- [1
+! LaTeX Error: File `pdflscape.sty' not found.
 
-{C:/Users/peter/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images/elsys_pos_staaende_ntnu.png>] (Sections/01Issue_section.tex
-<./Images/01Issue/01Anti-alias-filter.png, id=65, 443.6575pt x 121.45375pt>
-File: ./Images/01Issue/01Anti-alias-filter.png Graphic file (type png)
-<use ./Images/01Issue/01Anti-alias-filter.png>
-Package pdftex.def Info: ./Images/01Issue/01Anti-alias-filter.png  used on input line 9.
-(pdftex.def)             Requested size: 310.55812pt x 85.01703pt.
-) [2 <./Images/01Issue/01Anti-alias-filter.png>] (Sections/02Concept_section.tex
-<./Images/02Concept/01spesifikasjon.png, id=80, 327.2225pt x 211.79124pt>
-File: ./Images/02Concept/01spesifikasjon.png Graphic file (type png)
-<use ./Images/02Concept/01spesifikasjon.png>
-Package pdftex.def Info: ./Images/02Concept/01spesifikasjon.png  used on input line 19.
-(pdftex.def)             Requested size: 229.05418pt x 148.25285pt.
-<./Images/02Concept/02filter.png, id=84, 462.528pt x 171.2799pt>
-File: ./Images/02Concept/02filter.png Graphic file (type png)
-<use ./Images/02Concept/02filter.png>
-Package pdftex.def Info: ./Images/02Concept/02filter.png  used on input line 31.
-(pdftex.def)             Requested size: 323.76738pt x 119.89511pt.
-<./Images/02Concept/03SallenKey.png, id=86, 527.9725pt x 273.02pt>
-File: ./Images/02Concept/03SallenKey.png Graphic file (type png)
-<use ./Images/02Concept/03SallenKey.png>
-Package pdftex.def Info: ./Images/02Concept/03SallenKey.png  used on input line 40.
-(pdftex.def)             Requested size: 369.57823pt x 191.11269pt.
- [3 <./Images/02Concept/01spesifikasjon.png>] [4 <./Images/02Concept/02filter.png> <./Images/02Concept/03SallenKey.png>]
-<./Images/02Concept/04orders.png, id=117, 1284.8pt x 907.39pt>
-File: ./Images/02Concept/04orders.png Graphic file (type png)
-<use ./Images/02Concept/04orders.png>
-Package pdftex.def Info: ./Images/02Concept/04orders.png  used on input line 74.
-(pdftex.def)             Requested size: 256.95544pt x 181.47478pt.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 75.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 75.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 75.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 117--22
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
- []
+Enter file name: 
+d:/01School/ESDA2/01Designprosjekter/D6_Anti-alias-filter/LATEX/main.tex:3: Emergency stop.
+<read *> 
+         
+l.3 \begin{document}
+                    ^^M
+*** (cannot \read from terminal in nonstop modes)
 
-[5 <./Images/02Concept/04orders.png>] (Sections/03Research_section.tex
-<./Images/03Research/01realisertkrets.png, id=139, 929.4725pt x 242.9075pt>
-File: ./Images/03Research/01realisertkrets.png Graphic file (type png)
-<use ./Images/03Research/01realisertkrets.png>
-Package pdftex.def Info: ./Images/03Research/01realisertkrets.png  used on input line 52.
-(pdftex.def)             Requested size: 418.25877pt x 109.30736pt.
-<./Images/03Research/02frekvensrespons.png, id=141, 462.528pt x 346.896pt>
-File: ./Images/03Research/02frekvensrespons.png Graphic file (type png)
-<use ./Images/03Research/02frekvensrespons.png>
-Package pdftex.def Info: ./Images/03Research/02frekvensrespons.png  used on input line 61.
-(pdftex.def)             Requested size: 208.13567pt x 156.10175pt.
- [6 <./Images/03Research/01realisertkrets.png>]
-<./Images/03Research/02frekvensrespons2.png, id=154, 462.528pt x 346.896pt>
-File: ./Images/03Research/02frekvensrespons2.png Graphic file (type png)
-<use ./Images/03Research/02frekvensrespons2.png>
-Package pdftex.def Info: ./Images/03Research/02frekvensrespons2.png  used on input line 70.
-(pdftex.def)             Requested size: 208.13567pt x 156.10175pt.
-<./Images/03Research/03.jpg, id=156, 1198.4775pt x 1826.825pt>
-File: ./Images/03Research/03.jpg Graphic file (type jpg)
-<use ./Images/03Research/03.jpg>
-Package pdftex.def Info: ./Images/03Research/03.jpg  used on input line 81.
-(pdftex.def)             Requested size: 119.85477pt x 182.69319pt.
-) [7 <./Images/03Research/02frekvensrespons.png> <./Images/03Research/02frekvensrespons2.png>] (Sections/04Conclusion.tex) [8 <./Images/03Research/03.jpg>]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 34.
- (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
-File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \hbox (4.18967pt too wide) in paragraph at lines 34--34
-\T1/lmr/m/sc/10.95 url\T1/lmr/m/n/10.95 : [][]$\T1/lmss/m/n/10.95 https : / / ntnu . blackboard . com / ultra / courses / _38144 _ 1 / cl / outline$[][] \T1/lmr/m/n/10.95 (sjek-ket 01.10.2022). 
- []
-
-[9] (main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 94ECF013D94925F3BEBB92BA8B2699B1;1119.
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
+ 
 Here is how much of TeX's memory you used:
- 48207 strings out of 475385
- 1094226 string characters out of 2776906
- 2053300 words of memory out of 3000000
- 68865 multiletter control sequences out of 15000+600000
- 565759 words of font info for 107 fonts, out of 8000000 for 9000
+ 47422 strings out of 475380
+ 1076550 string characters out of 2776772
+ 2035894 words of memory out of 3000000
+ 68265 multiletter control sequences out of 15000+600000
+ 472862 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 130i,11n,132p,1213b,1672s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (9 pages, 763934 bytes).
-PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
- 135 words of extra memory for PDF output out of 10000 (max. 10000000)
-
->>>>>>> 1ad740368e34895dc9b1b3522c367d206dab73cc
+ 130i,0n,132p,1213b,803s stack positions out of 10000i,1000n,20000p,200000b,80000s
+d:/01School/ESDA2/01Designprosjekter/D6_Anti-alias-filter/LATEX/main.tex:3:  ==> Fatal error occurred, no output PDF file produced!

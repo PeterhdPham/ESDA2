@@ -2349,6 +2349,9 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">wikipediacontributors_2021_differential</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">feyling_2022_aktiv</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">admin_2021_mosfet</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

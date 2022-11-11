@@ -1,6 +1,6 @@
 \babel@toc {norsk}{}\relax 
 \contentsline {section}{\numberline {1}Problembeskrivelse}{2}{section.1}%
-\contentsline {section}{\numberline {2}prinsipiell løsning}{3}{section.2}%
-\contentsline {section}{\numberline {3}Realisering og test}{4}{section.3}%
-\contentsline {section}{\numberline {4}Konklusjon}{5}{section.4}%
-\contentsline {section}{\numberline {5}Referanser}{6}{section.5}%
+\contentsline {section}{\numberline {2}prinsipiell løsning}{4}{section.2}%
+\contentsline {section}{\numberline {3}Realisering og test}{7}{section.3}%
+\contentsline {section}{\numberline {4}Konklusjon}{9}{section.4}%
+\contentsline {section}{\numberline {5}Referanser}{10}{section.5}%
