@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.11)  11 NOV 2022 12:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.3)  11 NOV 2022 19:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **d:/01School/ESDA2/01Designprosjekter/D7_Operasjonsforsterker/LATEX/main.tex
 (d:/01School/ESDA2/01Designprosjekter/D7_Operasjonsforsterker/LATEX/main.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2022-10-26> (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
 File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -70,7 +70,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/10/04 3.81 The Babel package
+Package: babel 2022/10/23 3.82 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language79
@@ -643,14 +643,14 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-09-28 L3 programming layer (loader) 
+Package: expl3 2022-10-26 L3 programming layer (loader) 
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count419
 \l__pdf_internal_box=\box67
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2022-09-28 L3 programming layer (loader) 
+(biblatex)             2022-10-26 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
@@ -769,7 +769,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 34.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write5
  Excluding comment 'comment') (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
-Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+Package: pdfpages 2022/10/09 v0.5w Insert pages of external PDF documents (AM)
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count437
@@ -791,7 +791,7 @@ Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
 \AM@pageheight=\dimen299
 \AM@fboxrule=\dimen300
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
-File: pppdftex.def 2022/05/22 v0.5v Pdfpages driver for pdfTeX (AM)
+File: pppdftex.def 2022/10/09 v0.5w Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count440
 \AM@pagebox=\box68
@@ -909,8 +909,8 @@ Package: amsthm 2020/05/29 v2.20.6
 \dth@everypar=\toks54
 ) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/was\gensymb.sty
-Package: gensymb 2003/07/02 v1.0 (WaS)
+) (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1105,42 +1105,80 @@ Package pdftex.def Info: ./Images/02Concept/full_kretes.drawio.png  used on inpu
 <./Images/03Research/åpenløkkeplain.png, id=128, 462.528pt x 346.896pt>
 File: ./Images/03Research/åpenløkkeplain.png Graphic file (type png)
 <use ./Images/03Research/åpenløkkeplain.png>
-Package pdftex.def Info: ./Images/03Research/åpenløkkeplain.png  used on input line 27.
+Package pdftex.def Info: ./Images/03Research/åpenløkkeplain.png  used on input line 29.
 (pdftex.def)             Requested size: 231.26343pt x 173.44757pt.
 <./Images/03Research/åpenløkkeplain15mv.png, id=130, 462.528pt x 346.896pt>
 File: ./Images/03Research/åpenløkkeplain15mv.png Graphic file (type png)
 <use ./Images/03Research/åpenløkkeplain15mv.png>
-Package pdftex.def Info: ./Images/03Research/åpenløkkeplain15mv.png  used on input line 36.
+Package pdftex.def Info: ./Images/03Research/åpenløkkeplain15mv.png  used on input line 38.
 (pdftex.def)             Requested size: 265.59494pt x 199.20427pt.
 <./Images/03Research/åpenløkkeplain100kohm.png, id=132, 462.528pt x 346.896pt>
 File: ./Images/03Research/åpenløkkeplain100kohm.png Graphic file (type png)
 <use ./Images/03Research/åpenløkkeplain100kohm.png>
-Package pdftex.def Info: ./Images/03Research/åpenløkkeplain100kohm.png  used on input line 61.
+Package pdftex.def Info: ./Images/03Research/åpenløkkeplain100kohm.png  used on input line 65.
 (pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 62.
+(Font)              <9> on input line 66.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 66.
 <./Images/03Research/åpenløkkeplain100ohm.png, id=133, 462.528pt x 346.896pt>
 File: ./Images/03Research/åpenløkkeplain100ohm.png Graphic file (type png)
 <use ./Images/03Research/åpenløkkeplain100ohm.png>
-Package pdftex.def Info: ./Images/03Research/åpenløkkeplain100ohm.png  used on input line 67.
+Package pdftex.def Info: ./Images/03Research/åpenløkkeplain100ohm.png  used on input line 71.
 (pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
-<./Images/03Research/spektrum100k.png, id=134, 462.528pt x 346.896pt>
+ [7 <./Images/03Research/åpenløkkeplain.png>]
+<./Images/03Research/spektrum100k.png, id=144, 462.528pt x 346.896pt>
 File: ./Images/03Research/spektrum100k.png Graphic file (type png)
 <use ./Images/03Research/spektrum100k.png>
-Package pdftex.def Info: ./Images/03Research/spektrum100k.png  used on input line 81.
+Package pdftex.def Info: ./Images/03Research/spektrum100k.png  used on input line 85.
 (pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
-<./Images/03Research/spektrum100.png, id=135, 462.528pt x 346.896pt>
+<./Images/03Research/spektrum100.png, id=145, 462.528pt x 346.896pt>
 File: ./Images/03Research/spektrum100.png Graphic file (type png)
 <use ./Images/03Research/spektrum100.png>
-Package pdftex.def Info: ./Images/03Research/spektrum100.png  used on input line 87.
+Package pdftex.def Info: ./Images/03Research/spektrum100.png  used on input line 91.
 (pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 91.
+(Font)              <10> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 91.
-) [7 <./Images/03Research/åpenløkkeplain.png>] [8 <./Images/03Research/åpenløkkeplain15mv.png> <./Images/03Research/åpenløkkeplain100kohm.png> <./Images/03Research/åpenløkkeplain100ohm.png>] (Sections/04Conclusion.tex) [9 <./Images/03Research/spektrum100k.png> <./Images/03Research/spektrum100.png>]
+(Font)              <7> on input line 95.
+ [8 <./Images/03Research/åpenløkkeplain15mv.png> <./Images/03Research/åpenløkkeplain100kohm.png> <./Images/03Research/åpenløkkeplain100ohm.png>]
+<./Images/03Research/ikkeinverterende.png, id=164, 315.1775pt x 236.885pt>
+File: ./Images/03Research/ikkeinverterende.png Graphic file (type png)
+<use ./Images/03Research/ikkeinverterende.png>
+Package pdftex.def Info: ./Images/03Research/ikkeinverterende.png  used on input line 110.
+(pdftex.def)             Requested size: 126.06876pt x 94.75232pt.
+<./Images/03Research/noninverting100k.png, id=165, 462.528pt x 346.896pt>
+File: ./Images/03Research/noninverting100k.png Graphic file (type png)
+<use ./Images/03Research/noninverting100k.png>
+Package pdftex.def Info: ./Images/03Research/noninverting100k.png  used on input line 120.
+(pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
+<./Images/03Research/noninverting100.png, id=166, 462.528pt x 346.896pt>
+File: ./Images/03Research/noninverting100.png Graphic file (type png)
+<use ./Images/03Research/noninverting100.png>
+Package pdftex.def Info: ./Images/03Research/noninverting100.png  used on input line 126.
+(pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
+<./Images/03Research/noninvertingspektrum100k.png, id=167, 462.528pt x 346.896pt>
+File: ./Images/03Research/noninvertingspektrum100k.png Graphic file (type png)
+<use ./Images/03Research/noninvertingspektrum100k.png>
+Package pdftex.def Info: ./Images/03Research/noninvertingspektrum100k.png  used on input line 138.
+(pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
+<./Images/03Research/noninvertingspektrum100.png, id=168, 462.528pt x 346.896pt>
+File: ./Images/03Research/noninvertingspektrum100.png Graphic file (type png)
+<use ./Images/03Research/noninvertingspektrum100.png>
+Package pdftex.def Info: ./Images/03Research/noninvertingspektrum100.png  used on input line 144.
+(pdftex.def)             Requested size: 221.32687pt x 165.99474pt.
+<./Images/03Research/lastmot.png, id=171, 256.96pt x 105.39375pt>
+File: ./Images/03Research/lastmot.png Graphic file (type png)
+<use ./Images/03Research/lastmot.png>
+Package pdftex.def Info: ./Images/03Research/lastmot.png  used on input line 162.
+(pdftex.def)             Requested size: 179.87076pt x 73.7751pt.
+ [9 <./Images/03Research/spektrum100k.png> <./Images/03Research/spektrum100.png> <./Images/03Research/ikkeinverterende.png>]
+<./Images/03Research/outmot.png, id=190, 216.81pt x 135.50626pt>
+File: ./Images/03Research/outmot.png Graphic file (type png)
+<use ./Images/03Research/outmot.png>
+Package pdftex.def Info: ./Images/03Research/outmot.png  used on input line 177.
+(pdftex.def)             Requested size: 151.76596pt x 94.85371pt.
+ [10 <./Images/03Research/noninverting100k.png> <./Images/03Research/noninverting100.png> <./Images/03Research/noninvertingspektrum100k.png> <./Images/03Research/noninvertingspektrum100.png> <./Images/03Research/lastmot.png>]) [11 <./Images/03Research/outmot.png>] (Sections/04Conclusion.tex) [12]
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 34.
  (C:\Users\peter\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1149,7 +1187,7 @@ Overfull \hbox (5.8282pt too wide) in paragraph at lines 34--34
 []\T1/lmr/m/n/10.95 admin. \T1/lmr/m/it/10.95 MOSFET- Source Follow-er (Com-mon Drain Amp-li-fier)\T1/lmr/m/n/10.95 . ALL ABOUT ELECTRO-
  []
 
-[10] (main.aux)
+[13] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 98CD2C529877EEF3C6E0E9A773DBFDF6;607.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1157,17 +1195,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48259 strings out of 475385
- 1095944 string characters out of 2776906
- 2050759 words of memory out of 3000000
- 68907 multiletter control sequences out of 15000+600000
+ 48343 strings out of 475380
+ 1098695 string characters out of 2776772
+ 2052385 words of memory out of 3000000
+ 68976 multiletter control sequences out of 15000+600000
  582721 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  130i,10n,132p,1216b,1672s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/peter/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (10 pages, 744723 bytes).
+Output written on main.pdf (13 pages, 894066 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 318 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 163 words of extra memory for PDF output out of 10000 (max. 10000000)
 

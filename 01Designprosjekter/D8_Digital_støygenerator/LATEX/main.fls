@@ -1,6 +1,6 @@
-PWD c:\Users\peter\Documents\ESDA2\01Designprosjekter\mal\LATEX
+PWD d:\01School\ESDA2\01Designprosjekter\D8_Digital_støygenerator\LATEX
 INPUT C:\Users\peter\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\peter\Documents\ESDA2\01Designprosjekter\mal\LATEX\main.tex
+INPUT d:\01School\ESDA2\01Designprosjekter\D8_Digital_støygenerator\LATEX\main.tex
 OUTPUT main.log
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -345,10 +345,10 @@ INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex-dev\graphics\mathcolor.ltx
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
@@ -589,17 +589,17 @@ INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
@@ -754,7 +754,7 @@ INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
@@ -1165,17 +1165,17 @@ INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
-INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\was\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\gensymb\gensymb.sty
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT .\main.aux
 INPUT main.aux
@@ -1344,6 +1344,42 @@ INPUT Sections\01Issue_section.tex
 INPUT .\Sections\01Issue_section.tex
 INPUT .\Sections\01Issue_section.tex
 INPUT Sections\01Issue_section.tex
+INPUT .\Images\01Issue\Binært signal x(t) med amplitude V.drawio.png
+INPUT .\Images\01Issue\Binært signal x(t) med amplitude V.drawio.png
+INPUT Images\01Issue\Binært signal x(t) med amplitude V.drawio.png
+INPUT .\Images\01Issue\Binært signal x(t) med amplitude V.drawio.png
+INPUT .\Images\01Issue\Binært signal x(t) med amplitude V.drawio.png
+INPUT .\Images\01Issue\Binært signal x(t) med amplitude V.drawio.png
+INPUT .\Images\01Issue\Binært signal x(t) med amplitude V.drawio.png
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmib5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmbsy5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr7.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr5.tfm
 INPUT .\Sections\02Concept_section.tex
 INPUT .\Sections\02Concept_section.tex
 INPUT .\Sections\02Concept_section.tex
@@ -1351,6 +1387,50 @@ INPUT Sections\02Concept_section.tex
 INPUT .\Sections\02Concept_section.tex
 INPUT .\Sections\02Concept_section.tex
 INPUT Sections\02Concept_section.tex
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT .\Images\02Concept\tilbakekoblet skiftregisker.drawio.png
+INPUT .\Images\02Concept\tilbakekoblet skiftregisker.drawio.png
+INPUT Images\02Concept\tilbakekoblet skiftregisker.drawio.png
+INPUT .\Images\02Concept\tilbakekoblet skiftregisker.drawio.png
+INPUT .\Images\02Concept\tilbakekoblet skiftregisker.drawio.png
+INPUT .\Images\02Concept\tilbakekoblet skiftregisker.drawio.png
+INPUT .\Images\02Concept\tilbakekoblet skiftregisker.drawio.png
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT .\Images\02Concept\LFSR.png
+INPUT .\Images\02Concept\LFSR.png
+INPUT Images\02Concept\LFSR.png
+INPUT .\Images\02Concept\LFSR.png
+INPUT .\Images\02Concept\LFSR.png
+INPUT .\Images\02Concept\LFSR.png
+INPUT .\Images\02Concept\LFSR.png
+INPUT .\Images\02Concept\MUX.png
+INPUT .\Images\02Concept\MUX.png
+INPUT Images\02Concept\MUX.png
+INPUT .\Images\02Concept\MUX.png
+INPUT .\Images\02Concept\MUX.png
+INPUT .\Images\02Concept\MUX.png
+INPUT .\Images\02Concept\MUX.png
+INPUT .\Sections\03Research_section.tex
+INPUT .\Sections\03Research_section.tex
+INPUT .\Sections\03Research_section.tex
+INPUT Sections\03Research_section.tex
+INPUT .\Sections\03Research_section.tex
+INPUT .\Sections\03Research_section.tex
+INPUT Sections\03Research_section.tex
+INPUT .\Images\03Research\ice.png
+INPUT .\Images\03Research\ice.png
+INPUT Images\03Research\ice.png
+INPUT .\Images\03Research\ice.png
+INPUT .\Images\03Research\ice.png
+INPUT .\Images\03Research\ice.png
+INPUT .\Images\03Research\ice.png
+INPUT .\Images\03Research\spekter.png
+INPUT .\Images\03Research\spekter.png
+INPUT Images\03Research\spekter.png
+INPUT .\Images\03Research\spekter.png
+INPUT .\Images\03Research\spekter.png
+INPUT .\Images\03Research\spekter.png
+INPUT .\Images\03Research\spekter.png
 INPUT .\Sections\04Conclusion.tex
 INPUT .\Sections\04Conclusion.tex
 INPUT .\Sections\04Conclusion.tex
@@ -1358,17 +1438,40 @@ INPUT Sections\04Conclusion.tex
 INPUT .\Sections\04Conclusion.tex
 INPUT .\Sections\04Conclusion.tex
 INPUT Sections\04Conclusion.tex
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmss10.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss10.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb
+INPUT C:\Users\peter\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb

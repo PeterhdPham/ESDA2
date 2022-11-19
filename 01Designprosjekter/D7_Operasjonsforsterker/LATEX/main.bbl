@@ -124,6 +124,45 @@
       \verb https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7833c3-3e5b-4cc9-afef-af33012c168b&query=aktiv%20last%20praksis
       \endverb
     \endentry
+    \entry{a2020_glossary}{misc}{}
+      \list{organization}{1}{%
+        {Maximintegrated.com}%
+      }
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{Glossary Definition for Non-Inverting Op Amp}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2022}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.maximintegrated.com/en/glossary/definitions.mvp/term/Non-Inverting%20Op%20Amp/gpk/1219#:~:text=A%20non%2Dinverting%20op%20amp,180o%20out%20of%20phase.
+      \endverb
+      \verb{url}
+      \verb https://www.maximintegrated.com/en/glossary/definitions.mvp/term/Non-Inverting%20Op%20Amp/gpk/1219#:~:text=A%20non%2Dinverting%20op%20amp,180o%20out%20of%20phase.
+      \endverb
+    \endentry
+    \entry{ntnu_2022_ttt4265}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1658b38fe6c419690775191bab53ae36}{%
+           family={NTNU},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{fullhash}{1658b38fe6c419690775191bab53ae36}
+      \strng{bibnamehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{authorbibnamehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{authornamehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{authorfullhash}{1658b38fe6c419690775191bab53ae36}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TTT4265 – Elektronisk systemdesign og -analyse II LF Øving 13}
+      \field{year}{2022}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
