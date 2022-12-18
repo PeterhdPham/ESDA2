@@ -1,9 +1,9 @@
 \section{Realisering og test}
 \label{sec:research}
 
-Kretsen i figur \ref{fig:kretsdiagram} ble realisert med komponentene i tabel \ref{tab:comp}.
+Kretsen i figur \ref{fig:kretsdiagram} ble realisert med komponentene i tabel \ref{tab:comp} vist i figur \ref{fig:realisert}.
 
-\begin{table}[!tbp]
+\begin{table}[H]
     \centering
     \caption{Komponenter brukt i differensialforsterkeren.}
     \label{tab:comp}
@@ -15,25 +15,31 @@ Kretsen i figur \ref{fig:kretsdiagram} ble realisert med komponentene i tabel \r
     Q$_4$      & VP2106        &                        \\
     Q$_5$      & 2N7000        &                        \\
     Q$_6$      & 2N7000        &                        \\
-    R$_{P}$   & Potensiometer  & \text{10k$\Omega$}     \\
-    R$_{P1}$  &                & \text{20k$\Omega$}     \\
-    R$_{P2}$  &                & \text{10k$\Omega$}     \\
+    R$_{P1}$  &                & \text{20420$\Omega$} \\
+    R$_{P2}$  &                & \text{18210$\Omega$}  \\
     R$_{S}$   &                & \text{1k$\Omega$}      \\
-    R$_{I1}$  &                & \text{1.2k$\Omega$}     \\
-    R$_{i2}$   &               & \text{10.8k$\Omega$}
+    R$_{i1}$  &                & \text{1.2k$\Omega$}    \\
+    R$_{i2}$  &                & \text{10.8k$\Omega$}
     \end{tabular}
     \end{table}
 
-    \begin{figure}[!hbt]
-        \centering
-        \includegraphics[scale=0.5]{./Images/03Research/åpenløkkeplain.png}
-        \caption{Åpen-løkkeforsterkning med en inngangssignal på 5mV.}
-        \label{fig:åpenløkke}
-    \end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.1]{./Images/03Research/full kretes.drawio.png}
+    \caption{Realisert krets.\cite{pham_2022_selvlaget}|}
+    \label{fig:realisert}
+\end{figure}
 
-    Dette gav en forsterkning på $A \approx 350$ og en THD på $-27.6dB$ med en inngangssignal på 5mV og 1 KHz, det ble også observert lavere forsterkning og høyere THD ved høyere ingangssignal og når inngangssignalet gitt høyere enn 10mV så ble det observert klipping i utgangssgnalet som vist i figur \ref{fig:åpenløkke15mv}
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.5]{./Images/03Research/åpenløkkeplain.png}
+    \caption{Åpen-løkkeforsterkning med en inngangssignal på 5mV.}
+    \label{fig:åpenløkke}
+\end{figure}
 
-    \begin{figure}[!hbt]
+    Ved å sende in et sinussignal med en frekvens på 1kHz med 5mV i amplitude på $v^-$, så ble det målt en forsterkning på $A \approx 350$ og en THD på $-27.6dB$ signalet er vist i figur \ref{fig:åpenløkke}. Det ble også observert lavere forsterkning og høyere THD dersom amplituden på inngangssignalet ble økt fram til 10mV da det ble observert klipping i utgangssgnalet som vist i figur \ref{fig:åpenløkke15mv}. Dermed så blir sinussignalet med 5mV i amplitude brukt videre i prosjektet. 
+
+    \begin{figure}[H]
         \centering
         \includegraphics[width=.6\linewidth]{./Images/03Research/åpenløkkeplain15mv.png}
         \caption{Åpen-løkkeforsterkning med en inngangssignal på 15mV.}
@@ -42,14 +48,14 @@ Kretsen i figur \ref{fig:kretsdiagram} ble realisert med komponentene i tabel \r
 
 Dette kan skyldes at det ikke er tilstrekkelig med spenningsforsyning $V^+$ og $V^-$ da tilsvarende klipping også forekom ved en inngangssignal på 5mV når spenningsforsyningen ble redussert.
 
-Måling av THD og forsterkning $A$ ved sinuspåtrykk med frekvens f = 1 kHz med både 100 \text{$\Omega$} og 100 k\text{$\Omega$} er plottet inn i tabell \ref{tab:lastmotstand} utgangssignalene er vist i figur
+Måling av THD og forsterkning $A$ ved sinuspåtrykk med frekvens f = 1 kHz med både 100 \text{$\Omega$} og 100 k\text{$\Omega$} er plottet inn i tabell \ref{tab:lastmotstand} der utgangssignalene er vist i figur \ref{fig:åpenløkker} og oppsettet vist i figur \ref{fig:testeer}
 
-\begin{table}[!hbt]
+\begin{table}[H]
     \centering
     \caption{Forsterkning og THD ved ulik last motstand og type måling.}
     \label{tab:lastmotstand}
     \begin{tabular}{llll}
-    Type                & $R_0$                & A      & THD[dBc]     \\ \hline
+    Type                & $R_L$                & A      & THD[dBc]     \\ \hline
     Åpen-løkke          & 0                    & 348    & -36.7        \\
     Åpen-løkke          & 100 \text{$\Omega$}  & 91     & -7.7         \\
     Åpen-løkke          & 100 \text{$K\Omega$} & 346    & -37.0        \\
@@ -58,62 +64,68 @@ Måling av THD og forsterkning $A$ ved sinuspåtrykk med frekvens f = 1 kHz med 
     \end{tabular}
     \end{table}
 
-    \begin{figure}[!hbt]
+    \begin{figure}[H]
+        \centering
+        \begin{subfigure}{.5\textwidth}
+            \centering
+            \includegraphics[width=1\linewidth]{./Images/03Research/opamp.drawio.png}
+            \caption{Ikke-inverterende forsterker med forskjellig $R_L$}
+            \label{fig:ikkeinver}
+        \end{subfigure}%
+        \begin{subfigure}{.5\textwidth}
+            \centering
+            \includegraphics[width=1\linewidth]{./Images/03Research/åpenklr.png}
+            \caption{Åpen-løkke med lastmotsand $R_L$}
+            \label{fig:åpenmløkke}
+        \end{subfigure}
+        \caption{\cite{pham_2022_selvlaget}}
+        \label{fig:testeer}
+    \end{figure}
+
+    \begin{figure}[H]
         \centering
         \begin{subfigure}{.5\textwidth}
             \centering
             \includegraphics[width=1\linewidth]{./Images/03Research/åpenløkkeplain100kohm.png}
-            \caption{Åpen-løkkeforsterkning med lastmotsand på 100 k\text{$\Omega$}}
+            \caption{Åpen-løkkeforsterkning med lastmotsand på 100k{$\Omega$}}
             \label{fig:100k}
         \end{subfigure}%
         \begin{subfigure}{.5\textwidth}
             \centering
             \includegraphics[width=1\linewidth]{./Images/03Research/åpenløkkeplain100ohm.png}
-            \caption{Åpen-løkkeforsterkning med lastmotsand på 100 \text{$\Omega$}}
+            \caption{Åpen-løkkeforsterkning med lastmotstand på 100{$\Omega$}}
             \label{fig:100}
         \end{subfigure}
-        % \caption{}
-        % \label{fig:test}
+        \caption{}
+        \label{fig:åpenløkker}
     \end{figure}
 
     Siden spenningen blir lavere over lastmotstanden \text{$R_L$} ved lav motstand kan det tenkes at utgangsmotstanden  til systemet har noe å si da det skjer et spenningsfall før lastmotstanden i motsetning til en høy lastmotsand da tilnermet alt spenningsfallet skjer over denne.
 
-    \begin{figure}[!hbt]
+    \begin{figure}[H]
         \centering
         \begin{subfigure}{.5\textwidth}
             \centering
             \includegraphics[width=1\linewidth]{./Images/03Research/spektrum100k.png}
-            \caption{Åpen-løkkeforsterkning med lastmotsand på 100 k\text{$\Omega$}}
+            \caption{Åpen-løkkeforsterkning med lastmotsand på 100 k$\Omega$}
             \label{fig:100kspek}
         \end{subfigure}%
         \begin{subfigure}{.5\textwidth}
             \centering
             \includegraphics[width=1\linewidth]{./Images/03Research/spektrum100.png}
-            \caption{Åpen-løkkeforsterkning med lastmotsand på 100 \text{$\Omega$}}
-            \label{fig:100spek}
+            \caption{Åpen-løkkeforsterkning med lastmotsand på 100$\Omega$}
+            \label{fig:100spekk}
         \end{subfigure}
         \caption{Frkvensspekter for lastmotsand på 100 k\text{$\Omega$} og 100 \text{$\Omega$}}
         \label{fig:Frkvensspekter}
     \end{figure}
 
-Det er observert at lav lastmotstand også gir mer overharmonisk støy i figur \ref{fig:Frkvensspekter}.
+Det er observert at lav lastmotstand også gir mer overharmonisk støy i figur \ref{fig:100spekk}.
 
-Ved ikke-inverterende forsterkerkobling som vist i figur \ref{fig:Ikke-inverterende} med en forsterkning $A \approx 10$ ble utgangssignalene seende som vist i figur \ref{fig:ikkeinv}, mens frekvensspekteret er plottet i figur \ref{fig:ikkeinvspek}.Da det er lavere forsterkning her så blir det brkt et høyere amplitude på inngangssignalet. Det er lite forskjell på forsterkning mellom høy og lav lastmotstand, men det forekommer mer støy på den ikke-inverterende forsterkerkoblingen med lav lastmotstand. Til tross for dette så er det generelt lavere støy og forsterkningene på 9.74 og 9.83 ganske så nerme 10 som det burde vært ifølge teorien i \cite{a2020_glossary} der det oppgis at forsterkningen skal være
-
-\begin{equation}
-    A=1+\frac{R_{I2}}{R_{I1}}
-\end{equation}
+Ved ikke-inverterende forsterkerkobling som vist i figur \ref{fig:ikkeinver} med en forsterkning $A \approx 10$ ble utgangssignalene seende som vist i figur \ref{fig:ikkeinv}, mens frekvensspekteret er plottet i figur \ref{fig:ikkeinvspek}. Da det er lavere forsterkning her så blir det brukt en høyere amplitude på inngangssignalet. Det er lite forskjell på forsterkning mellom høy og lav lastmotstand, men det forekommer mer støy på den ikke-inverterende forsterkerkoblingen med lav lastmotstand. Til tross for dette så er det generelt lavere støy og forsterkningene på 9.74 og 9.83 ganske så nerme 10, da forholdet mellom ${R_{I2}}$ og ${R_{I1}}$ ifølge formelen \ref{eq:ikkeinv} skal føre til en forsterkning A=10.
 
 
-\begin{figure}[!hbt]
-	\centering
-	\includegraphics[scale=0.4]{./Images/03Research/ikkeinverterende.png}
-	\caption{Ikke-inverterende forsterkerkobling.}
-	\label{fig:Ikke-inverterende}
-\end{figure}
-
-
-\begin{figure}[!hbt]
+\begin{figure}[H]
     \centering
     \begin{subfigure}{.5\textwidth}
         \centering
@@ -131,7 +143,7 @@ Ved ikke-inverterende forsterkerkobling som vist i figur \ref{fig:Ikke-invertere
     \label{fig:ikkeinv}
 \end{figure}
 
-\begin{figure}[!hbt]
+\begin{figure}[H]
     \centering
     \begin{subfigure}{.5\textwidth}
         \centering
@@ -149,32 +161,43 @@ Ved ikke-inverterende forsterkerkobling som vist i figur \ref{fig:Ikke-invertere
     \label{fig:ikkeinvspek}
 \end{figure}
 
-For å finne uv av inngangs- og utgangshastigheten blir metoden i løsningsforslaget \cite{ntnu_2022_ttt4265} brukt, der formelen for inngangsmotstanden er gitt ved
+For å finne uv av inngangs- og utgangshastigheten blir metoden i dokumentet \cite{ntnu_2022_ttt4265} brukt, der ved måling av inngangsmotstanden R$_i$ blir gjort ved å legge til en kjent motstand R' = 1M$\Omega$ som vist i figur \ref{fig:lastmot}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.1]{./Images/03Research/lastmot.png}
+    \caption{måling av inngangsmotstand.\cite{pham_2022_selvlaget}}
+    \label{fig:lastmot}
+\end{figure}
+
+der formelen for inngangsmotstanden er gitt ved
 
 \begin{equation}
     R_i=R'\frac{v_i}{v_s}
 \end{equation}
 
-For å måle inngangsmotstanden ble det brukt en motstand på 1M$\Omega$ i figur \ref{fig:lastmot}, $v_i$ ble målt til 69mV, og $v_s$ ble målt til 42mV. Dette gir en inngangsmotstand på $R_i\approx$1.55M$\Omega$.
+Her er For å måle inngangsmotstanden ble det brukt en lastmotstandmotstand på 1M$\Omega$ i figur \ref{fig:lastmot}, $v_i$ ble målt til 69mV, og $v_s$ ble målt til 42mV. Dette gir en inngangsmotstand på $R_i\approx$1.55M$\Omega$.
 
-\begin{figure}[!hbt]
-	\centering
-	\includegraphics[scale=0.7]{./Images/03Research/lastmot.png}
-	\caption{måling av inngangsmotstand.}
-	\label{fig:lastmot}
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.1]{./Images/03Research/outmot.png}
+    \caption{måling av utgangsmotstand.\cite{pham_2022_selvlaget}}
+    \label{fig:outmot}
 \end{figure}
 
-Ved måling av utgangsmotstanden ble en motstand brukt som vist i figur \ref{fig:outmot} der spenningen $v_o$ målt før motstanden ble satt på ble målt til 3.276V, mens $v_L$ ble målt til 1.37V. Motstanden som ble brukt var på 100$\Omega$ dermed ved bruk av formelen i LF \cite{ntnu_2022_ttt4265} så gir det en utgangsmotstand på $R_o\approx$129$\Omega$.
+Ved måling av utgangsmotstanden ble en motstand $R_{LO}$ brukt som vist i figur \ref{fig:outmot} der spenningen $v_o$ målt før motstanden ble satt på ble målt til 3.276V, mens $v_L$ ble målt til 1.37V. Motstanden som ble brukt var på 100$\Omega$ dermed ved bruk av formelen i dokumentet \cite{ntnu_2022_ttt4265} så gir det en utgangsmotstand på $R_o\approx$129$\Omega$.
 
 \begin{equation}
-    R_o=R_L\frac{v_o-v_L}{v_L}
+    R_o=R_{LO}\frac{v_o-v_L}{v_L}
 \end{equation}
 
-brukt på kretsen i figur \ref{fig:outmot} 
-
-\begin{figure}[!hbt]
+Den fysisk oppkoblet kretsen er vist i figur \ref{fig:fysisk}
+\begin{figure}[H]
 	\centering
-	\includegraphics[scale=0.7]{./Images/03Research/outmot.png}
-	\caption{måling av utgangsmotstand.}
-	\label{fig:outmot}
+	\includegraphics[scale=0.2]{./Images/03Research/ikkeinverterende.png}
+	\caption{Fysisk oppkoblet krets.}
+	\label{fig:fysisk}
 \end{figure}
+
+
+

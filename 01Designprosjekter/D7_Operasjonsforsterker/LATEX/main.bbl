@@ -72,6 +72,7 @@
       \strng{authorbibnamehash}{c2897d4738d8fd643743ca427344b1f3}
       \strng{authornamehash}{c2897d4738d8fd643743ca427344b1f3}
       \strng{authorfullhash}{c2897d4738d8fd643743ca427344b1f3}
+      \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
@@ -90,38 +91,75 @@
       \verb https://en.wikipedia.org/wiki/Differential_amplifier#Biasing
       \endverb
     \endentry
+    \entry{wikipediacontributors_2022_total}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c2897d4738d8fd643743ca427344b1f3}{%
+           family={Contributors},
+           familyi={C\bibinitperiod},
+           given={Wikipedia},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Wikipedia}%
+      }
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \strng{namehash}{c2897d4738d8fd643743ca427344b1f3}
+      \strng{fullhash}{c2897d4738d8fd643743ca427344b1f3}
+      \strng{bibnamehash}{c2897d4738d8fd643743ca427344b1f3}
+      \strng{authorbibnamehash}{c2897d4738d8fd643743ca427344b1f3}
+      \strng{authornamehash}{c2897d4738d8fd643743ca427344b1f3}
+      \strng{authorfullhash}{c2897d4738d8fd643743ca427344b1f3}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Total harmonic distortion}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Total_harmonic_distortion#Measurement
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Total_harmonic_distortion#Measurement
+      \endverb
+    \endentry
     \entry{feyling_2022_aktiv}{misc}{}
       \name{author}{1}{}{%
-        {{hash=eeee32c95bbaa3f5e0ecc2ef6ad4ee9d}{%
+        {{hash=4f1f9db6e1d2e04c0b1eb7ff2a0846f8}{%
            family={Feyling},
-           familyi={F\bibinitperiod},
-           given={Fredrik},
-           giveni={F\bibinitperiod}}}%
+           familyi={F\bibinitperiod}}}%
       }
       \list{organization}{1}{%
         {Panopto}%
       }
-      \strng{namehash}{eeee32c95bbaa3f5e0ecc2ef6ad4ee9d}
-      \strng{fullhash}{eeee32c95bbaa3f5e0ecc2ef6ad4ee9d}
-      \strng{bibnamehash}{eeee32c95bbaa3f5e0ecc2ef6ad4ee9d}
-      \strng{authorbibnamehash}{eeee32c95bbaa3f5e0ecc2ef6ad4ee9d}
-      \strng{authornamehash}{eeee32c95bbaa3f5e0ecc2ef6ad4ee9d}
-      \strng{authorfullhash}{eeee32c95bbaa3f5e0ecc2ef6ad4ee9d}
+      \strng{namehash}{4f1f9db6e1d2e04c0b1eb7ff2a0846f8}
+      \strng{fullhash}{4f1f9db6e1d2e04c0b1eb7ff2a0846f8}
+      \strng{bibnamehash}{4f1f9db6e1d2e04c0b1eb7ff2a0846f8}
+      \strng{authorbibnamehash}{4f1f9db6e1d2e04c0b1eb7ff2a0846f8}
+      \strng{authornamehash}{4f1f9db6e1d2e04c0b1eb7ff2a0846f8}
+      \strng{authorfullhash}{4f1f9db6e1d2e04c0b1eb7ff2a0846f8}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Aktiv last praksis}
-      \field{urlday}{9}
-      \field{urlmonth}{11}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
       \field{urlyear}{2022}
       \field{year}{2022}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7833c3-3e5b-4cc9-afef-af33012c168b&query=aktiv%20last%20praksis
+      \verb https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7833c3-3e5b-4cc9-afef-af33012c168b&query=Aktiv%20last%20praksis
       \endverb
       \verb{url}
-      \verb https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7833c3-3e5b-4cc9-afef-af33012c168b&query=aktiv%20last%20praksis
+      \verb https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2d7833c3-3e5b-4cc9-afef-af33012c168b&query=Aktiv%20last%20praksis
       \endverb
     \endentry
     \entry{a2020_glossary}{misc}{}
@@ -144,6 +182,26 @@
       \verb https://www.maximintegrated.com/en/glossary/definitions.mvp/term/Non-Inverting%20Op%20Amp/gpk/1219#:~:text=A%20non%2Dinverting%20op%20amp,180o%20out%20of%20phase.
       \endverb
     \endentry
+    \entry{ntnu_2022_ttt426065}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1658b38fe6c419690775191bab53ae36}{%
+           family={NTNU},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{fullhash}{1658b38fe6c419690775191bab53ae36}
+      \strng{bibnamehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{authorbibnamehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{authornamehash}{1658b38fe6c419690775191bab53ae36}
+      \strng{authorfullhash}{1658b38fe6c419690775191bab53ae36}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TTT4260/65 Elektronisk sysdemdesign og -analyse I/II 2022 Designprosjekt 7: Operasjonsforsterker versjon 1.0}
+      \field{year}{2022}
+    \endentry
     \entry{ntnu_2022_ttt4265}{misc}{}
       \name{author}{1}{}{%
         {{hash=1658b38fe6c419690775191bab53ae36}{%
@@ -156,12 +214,93 @@
       \strng{authorbibnamehash}{1658b38fe6c419690775191bab53ae36}
       \strng{authornamehash}{1658b38fe6c419690775191bab53ae36}
       \strng{authorfullhash}{1658b38fe6c419690775191bab53ae36}
+      \field{extraname}{2}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{TTT4265 – Elektronisk systemdesign og -analyse II LF Øving 13}
       \field{year}{2022}
+    \endentry
+    \entry{pham_2022_selvlaget}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ecf830ec2113c8c209c7de7871b01ca7}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ecf830ec2113c8c209c7de7871b01ca7}
+      \strng{fullhash}{ecf830ec2113c8c209c7de7871b01ca7}
+      \strng{bibnamehash}{ecf830ec2113c8c209c7de7871b01ca7}
+      \strng{authorbibnamehash}{ecf830ec2113c8c209c7de7871b01ca7}
+      \strng{authornamehash}{ecf830ec2113c8c209c7de7871b01ca7}
+      \strng{authorfullhash}{ecf830ec2113c8c209c7de7871b01ca7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Selvlaget figur}
+      \field{year}{2022}
+    \endentry
+    \entry{stmicroelectronics_2008_2n7000}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c38884ab3cf908c2798725960369391b}{%
+           family={STMicroelectronics},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c38884ab3cf908c2798725960369391b}
+      \strng{fullhash}{c38884ab3cf908c2798725960369391b}
+      \strng{bibnamehash}{c38884ab3cf908c2798725960369391b}
+      \strng{authorbibnamehash}{c38884ab3cf908c2798725960369391b}
+      \strng{authornamehash}{c38884ab3cf908c2798725960369391b}
+      \strng{authorfullhash}{c38884ab3cf908c2798725960369391b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{2N7000 Datasheet}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2008}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://dir.heisener.com/DatasheetDownload/2N7002.pdf
+      \endverb
+      \verb{url}
+      \verb https://dir.heisener.com/DatasheetDownload/2N7002.pdf
+      \endverb
+    \endentry
+    \entry{supertex_2013_supertex}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e2130723c5d567b474348e47bbcf4d1d}{%
+           family={Supertex},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2130723c5d567b474348e47bbcf4d1d}
+      \strng{fullhash}{e2130723c5d567b474348e47bbcf4d1d}
+      \strng{bibnamehash}{e2130723c5d567b474348e47bbcf4d1d}
+      \strng{authorbibnamehash}{e2130723c5d567b474348e47bbcf4d1d}
+      \strng{authornamehash}{e2130723c5d567b474348e47bbcf4d1d}
+      \strng{authorfullhash}{e2130723c5d567b474348e47bbcf4d1d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Supertex inc}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2022}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/VP2106B082313.pdf
+      \endverb
+      \verb{url}
+      \verb https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/VP2106B082313.pdf
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
